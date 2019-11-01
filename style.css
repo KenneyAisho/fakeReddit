@@ -1,0 +1,19 @@
+h1 {
+    text-emphasis: bold;
+    color: mintcream;
+}
+
+body {
+    background-color: darkslategrey;
+    color: yellow;
+}
+
+.subtitle {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border: 1px solid mintcream;
+    font-size: 20px;
+    text-decoration: none;
+    color: yellow;
+}
